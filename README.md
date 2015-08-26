@@ -1,4 +1,4 @@
-# NodeJS Guidelines - ZenLabs
+# NodeJS Guidelines - 90Tech
 
 ## Sommaire
 1. [Objectifs du guide](#objectifs-du-guide)
